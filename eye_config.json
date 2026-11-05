@@ -1,0 +1,14 @@
+{
+  "lock_idle_min": 5,
+  "pause_idle_min": 2,
+  "theme": "浅蓝色",
+  "opacity": 0.75,
+  "autostart": false,
+  "eye_mode": "原色",
+  "blue_light_on": false,
+  "blue_light_strength": 50,
+  "tint_color": "淡黄",
+  "eye_schedule_enabled": false,
+  "eye_schedule_start": "20:00",
+  "eye_schedule_end": "07:00"
+}
